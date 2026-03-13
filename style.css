@@ -1,8 +1,8 @@
 /* --- Estilos Globales & Colores Grises --- */
 :root {
-    --bg-color: #f4f4f9;      /* Gris muy claro para el fondo */
+    --bg-color: #f10b54;      /* Gris muy claro para el fondo */
     --text-color: #333333;     /* Gris oscuro para el texto principal */
-    --primary-color: #607d8b; /* Gris azulado (puedes editar este color) */
+    --primary-color: #add20a; /* Gris azulado (puedes editar este color) */
     --secondary-bg: #ffffff;   /* Blanco para las tarjetas */
     --border-color: #e0e0e0;   /* Gris claro para bordes */
     --header-footer-bg: #263238; /* Gris casi negro para encabezado */
